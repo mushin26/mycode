@@ -1,7 +1,4 @@
-# mycode
-Alta3 Python Basic Course
-
-# mycode (Python student)
+# mycode (Python student : Alta3 Python Basic Course)
 
 Learning Python from zero!
 
