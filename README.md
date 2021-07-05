@@ -1,6 +1,7 @@
 # mycode (Python student : Alta3 Python Basic Course)
 
 Learning Python from zero!
+Journey start here!
 
 ## Getting Started
 
