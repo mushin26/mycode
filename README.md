@@ -1,3 +1,3 @@
 # mycode
 Alta3 Python Basic Course
-Start learning Python
+- Start learning Python
